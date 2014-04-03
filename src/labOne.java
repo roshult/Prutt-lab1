@@ -9,7 +9,7 @@ import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.SwingConstants;
 
-
+//main class
 public class labOne {
 	
 	public static void main ( String[] args){
